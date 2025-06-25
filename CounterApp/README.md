@@ -36,7 +36,7 @@ This project will help solidify the following JavaScript fundamentals:
 - Associating functions with events
 
 ### ✅ Conditional Logic *(Optional enhancement)*
-- Prevent counter from going below zero (if implemented)
+- Prevent counter from going below zero 
 
 ---
 

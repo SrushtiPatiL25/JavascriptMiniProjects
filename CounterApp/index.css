@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .parentDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh; 
+    background: lightblue;
+    gap: 2rem;
+    flex-direction: column;
+  }
+
+  .btn {
+    font-size: 2rem;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  #reset {
+    background-color: #dc3545;
+  }
+  
+  #reset:hover {
+    background-color: #a71d2a;
+  }
