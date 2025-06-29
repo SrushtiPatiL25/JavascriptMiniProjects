@@ -1,4 +1,4 @@
-# 🧠 JavaScript Mini Projects: Level Up with SimplicityAdd commentMore actions
+# 🧠 JavaScript Mini Projects: Level Up with Simplicity
 
 Welcome to a growing collection of small, focused JavaScript projects — designed to strengthen your core understanding and sharpen your problem-solving skills, step by step.
 
@@ -8,7 +8,7 @@ Whether you're just starting out or brushing up on the fundamentals, these mini-
 
 ## 🚀 What's Inside?
 
-- ✅ Simple, real-world problem statements  
+- ✅ Simple, problem statements  
 - 🧩 Each project focuses on a specific concept or pattern  
 - 🔁 No frameworks 
 - 📁 Organized and easy to explore  
